@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\COREVIN\\source\\repos\\ECOMMERCE\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj": {}
+    "C:\\Users\\Lenovo\\source\\repos\\CapstoneProjectRepo\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj": {}
   },
   "projects": {
-    "C:\\Users\\COREVIN\\source\\repos\\ECOMMERCE\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj": {
+    "C:\\Users\\Lenovo\\source\\repos\\CapstoneProjectRepo\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\COREVIN\\source\\repos\\ECOMMERCE\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\CapstoneProjectRepo\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj",
         "projectName": "ECommerce_Main",
-        "projectPath": "C:\\Users\\COREVIN\\source\\repos\\ECOMMERCE\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj",
-        "packagesPath": "C:\\Users\\COREVIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\COREVIN\\source\\repos\\ECOMMERCE\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\obj\\",
+        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CapstoneProjectRepo\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\CapstoneProjectRepo\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\COREVIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

@@ -6081,28 +6081,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\COREVIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repo\\Capstone_Project_ECOMMERCE\\QuickShop\\QuickShop\\QuickShop.csproj",
+      "projectUniqueName": "C:\\Users\\COREVIN\\source\\repos\\CapstoneProject_ECOMMERCE\\Capstone_Project_ECOMMERCE\\QuickShop\\QuickShop\\QuickShop.csproj",
       "projectName": "QuickShop",
-      "projectPath": "D:\\repo\\Capstone_Project_ECOMMERCE\\QuickShop\\QuickShop\\QuickShop.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\repo\\Capstone_Project_ECOMMERCE\\QuickShop\\QuickShop\\obj\\",
+      "projectPath": "C:\\Users\\COREVIN\\source\\repos\\CapstoneProject_ECOMMERCE\\Capstone_Project_ECOMMERCE\\QuickShop\\QuickShop\\QuickShop.csproj",
+      "packagesPath": "C:\\Users\\COREVIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\COREVIN\\source\\repos\\CapstoneProject_ECOMMERCE\\Capstone_Project_ECOMMERCE\\QuickShop\\QuickShop\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\COREVIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

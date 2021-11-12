@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Collabera\\.nuget\\packages\\": {}
+    "C:\\Users\\Collabera\\.nuget\\packages\\": {},
+    "D:\\IDE\\Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Collabera\\Desktop\\Sample\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj",
+      "projectUniqueName": "C:\\Users\\Collabera\\Documents\\Repos\\Projects\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj",
       "projectName": "ECommerce_Main",
-      "projectPath": "C:\\Users\\Collabera\\Desktop\\Sample\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj",
+      "projectPath": "C:\\Users\\Collabera\\Documents\\Repos\\Projects\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\ECommerce_Main.csproj",
       "packagesPath": "C:\\Users\\Collabera\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Collabera\\Desktop\\Sample\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\obj\\",
+      "outputPath": "C:\\Users\\Collabera\\Documents\\Repos\\Projects\\Capstone_Project_ECOMMERCE\\ECommerce_Main\\ECommerce_Main\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\IDE\\Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Collabera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
